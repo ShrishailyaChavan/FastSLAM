@@ -3,7 +3,7 @@
 
 Welcome to the FastSLAM Python simulation! This project provides a comprehensive implementation of both FastSLAM 1.0 and 2.0. FastSLAM is a popular approach for solving the Simultaneous Localization and Mapping (SLAM) problem, which is essential in mobile robotics.
 
-## Intall Dependencies
+## Install Dependencies
 
 It's recommended to create a new Python virtual environment for this project. You can install all the necessary packages by running:
 Using a new virtual env to install the packages:
