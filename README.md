@@ -40,7 +40,6 @@ The noise levels can be adjusted in the **'set_noise'** method in the **'particl
 
 ## Output
 
-1) Output of the FastSLAM 1.0:
 ![Output of FastSLAM 1.0](https://github.com/ShrishailyaChavan/FastSLAM/blob/main/Output/FastSLAM.png)
 
 ## Souce of the Implementation
