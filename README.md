@@ -38,5 +38,10 @@ This simulation includes various types of noise to mimic real-world uncertaintie
 
 The noise levels can be adjusted in the **'set_noise'** method in the **'particle.py'** file. The **'obs_noise'** attribute, an important part of the prediction step of the EKF, can also be tuned to adjust the model's tolerance for data association.
 
+## Output
+
+1) Output of the FastSLAM 1.0:
+![Output of FastSLAM 1.0](https://github.com/ShrishailyaChavan/FastSLAM/blob/main/Output/FastSLAM.png)
+
 ## Souce of the Implementation
 [fastSLAM paper](https://www.ri.cmu.edu/pub_files/pub4/montemerlo_michael_2003_1/montemerlo_michael_2003_1.pdf)
